@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(#122c3f,#285f89);
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+
+.user_container{
+    position: relative;
+}
+
+.users_template{
+    border-radius: 5px;
+    background: #ffffff;
+    height: 775px;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.search_container{
+    border-bottom: 1px solid #d1d1d1;
+}
+
+.search_container input{
+    font-size: 15px;
+    background: #F4F6F9;
+    border: 1px solid #c1c1c1;
+    padding: 25px 20px;
+    outline: 0;
+    width: 558px;
+    border-radius: 5px ;
+
+}
+
+.user_num{
+    padding-left: 10px;
+    padding-top: 26px;
+    float: left;
+    font-size: 12px;
+    color: #b1b1b1
+}
+
+.user_name{
+    color: #1D3648;
+    font-weight: 700;
+}
+
+.user_count_pub{
+    color: #b1b1b1
+}
+
+.user_img{
+    float: left;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    color: white;
+    border-radius: 100%;
+    font-weight: 700;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-top: 12px;
+    padding-right: 7px;
+    padding-left: 7px;
+    box-shadow: 0 0 15px 5px #d1d1d1;
+}
+
+.user_component{
+    padding: 15px;
+    height: 40px;
+
+}
+
+.user_wrapper{
+    float: left;
+}
+
+.medals{
+    float: left;
+    position: absolute;
+    right: 220px;
+    height: 45px;
+    background-size: contain !important;
+    background-position: top center !important;
+
+}
+
+.pageviews{
+    float: right;
+    color: #1D3648;
+}
+
+.buttons{
+    position: relative;
+    margin: 0 auto;
+    width: 100px;
+    color: rgba(255,255,255,0.5);
+}
+
+.prev{
+    float: left;
+    margin: 5px;
+}
+
+.info{
+    position: absolute;
+    left: 27px;
+    margin-top: 5px;
+    color: white;
+}
+
+.next{
+    float: right;
+    margin: 5px;
+}
+
