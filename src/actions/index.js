@@ -1,5 +1,5 @@
 import axios from 'axios';
-const URL = 'http://localhost:3000/data.json';
+const URL = '/data.json';
 
 export function usersListAll(){
     const request = axios.get(`${URL}`)

@@ -62,7 +62,7 @@ const User = (props) => {
                         <div className='user_container' style={{
                             background:`${background(i)}`
                         }} key={i}>
-                            <div className="user_num"> {i} </div>
+                            <div className="user_num"> {item.number} </div>
                             <div className="user_component">
                                 <div className="user_img" style={{
                                     background:`${imageColor()}`
