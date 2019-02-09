@@ -1,177 +1,177 @@
 [
   {
-    "name":"Ярослав Елисеев",
+    "name":"Jimi Hendrix",
     "count_pub":4,
-    "pageviews":991201
+    "pageviews": "1942-1970"
   },
   {
-    "name":"Сергей Сафонов",
+    "name":"Duane Allman",
     "count_pub":4,
-    "pageviews":981435
+    "pageviews":"1946-1971"
   },
   {
-    "name":"Николай Исаков",
+    "name":"B.B. King",
     "count_pub":3,
-    "pageviews":971027
+    "pageviews":"1925-2015"
   },
   {
-    "name":"Валерий Игнатьев",
+    "name":"Eric Clapton",
     "count_pub":4,
-    "pageviews":960660
+    "pageviews":"1945"
   },
   {
-    "name":"Людмила Андреева",
+    "name":"Robert Johnson",
     "count_pub":10,
-    "pageviews":950950
+    "pageviews":"1911-1938"
   },
   {
-    "name":"Андрей Смирнов",
+    "name":"Chuck Berry",
     "count_pub":4,
-    "pageviews":941118
+    "pageviews":"1926-2017"
   },
   {
-    "name":"Иван Сергеев",
+    "name":"Stevie Ray Vaughan",
     "count_pub":6,
-    "pageviews":931536
+    "pageviews":"1954-1990"
   },
   {
-    "name":"Валерия Комарова",
+    "name":"Ry Cooder",
     "count_pub":1,
-    "pageviews":922087
+    "pageviews":"1947"
   },
   {
-    "name":"Никита Евдокимов",
+    "name":"Jimmy Page",
     "count_pub":10,
-    "pageviews":910525
+    "pageviews":"1944"
   },
   {
-    "name":"Вадим Кошелев",
+    "name":"Keith Richards",
     "count_pub":6,
-    "pageviews":902019
+    "pageviews":"1943"
   },
   {
-    "name":"Петр Кузнецов",
+    "name":"Kirk Hammett",
     "count_pub":1,
-    "pageviews":890520
+    "pageviews":"1962"
   },
   {
-    "name":"Яков Семенов",
+    "name":"Kurt Cobain",
     "count_pub":6,
-    "pageviews":880766
+    "pageviews":"1967-1994"
   },
   {
-    "name":"Борис Нестеров",
+    "name":"Jerry Garcia",
     "count_pub":5,
-    "pageviews":871408
+    "pageviews":"1942-1995"
   },
   {
-    "name":"Валерий Шилов",
+    "name":"Jeff Beck",
     "count_pub":7,
-    "pageviews":861594
+    "pageviews":"1944"
   },
   {
-    "name":"Станислав Смирнов",
+    "name":"Carlos Santana",
     "count_pub":10,
-    "pageviews":851992
+    "pageviews":"1947"
   },
   {
-    "name":"Лев Макаров",
+    "name":"Johnny Ramone",
     "count_pub":7,
-    "pageviews":841681
+    "pageviews":"1948-2004"
   },
   {
-    "name":"Георгий Краевский",
+    "name":"Jack White",
     "count_pub":8,
-    "pageviews":831467
+    "pageviews":"1975"
   },
   {
-    "name":"Петр Головцын",
+    "name":"John Frusciante",
     "count_pub":1,
-    "pageviews":822211
+    "pageviews":"1970"
   },
   {
-    "name":"Сергей Юмашев",
+    "name":"Richard Thompson",
     "count_pub":3,
-    "pageviews":812242
+    "pageviews":"1949"
   },
   {
-    "name":"Вячеслав Сунбулов",
+    "name":"James Burton",
     "count_pub":1,
-    "pageviews":801407
+    "pageviews":"1939"
   },
   {
-    "name":"Иван Жаба",
+    "name":"George Harrison",
     "count_pub":10,
-    "pageviews":791240
+    "pageviews":"1943-2001"
   },
   {
-    "name":"Леонид Богоявленский",
+    "name":"Mike Bloomfield",
     "count_pub":1,
-    "pageviews":782219
+    "pageviews":"1943-1981"
   },
   {
-    "name":"Николай Могучий",
+    "name":"Warren Haynes",
     "count_pub":9,
-    "pageviews":771624
+    "pageviews":"1960"
   },
   {
-    "name":"Руслан Стрекалов",
+    "name":"The Edge",
     "count_pub":2,
-    "pageviews":761255
+    "pageviews":"1961"
   },
   {
-    "name":"Ярослав Елагин",
+    "name":"Freddy King",
     "count_pub":2,
-    "pageviews":751219
+    "pageviews":""
   },
   {
-    "name":"Антон Ружинский",
+    "name":"Tom Morello",
     "count_pub":4,
-    "pageviews":741103
+    "pageviews":"1964"
   },
   {
-    "name":"Валерий Чемоданов",
+    "name":"Mark Knopfler",
     "count_pub":8,
-    "pageviews":730624
+    "pageviews":"1949"
   },
   {
-    "name":"Алексей Жемайлов",
+    "name":"Stephen Stills",
     "count_pub":10,
-    "pageviews":721620
+    "pageviews":"1945"
   },
   {
-    "name":"Дмитрий Коцарев",
+    "name":"Ron Asheton",
     "count_pub":2,
-    "pageviews":712136
+    "pageviews":"1948-2009"
   },
   {
-    "name":"Евгений Жеманов",
+    "name":"Buddy Guy",
     "count_pub":6,
-    "pageviews":700822
+    "pageviews":"1936"
   },
   {
-    "name":"Богдан Ганеев",
+    "name":"Dick Dale",
     "count_pub":9,
-    "pageviews":691847
+    "pageviews":"1937"
   },
   {
-    "name":"Семен Тутчев",
+    "name":"John Cipollina",
     "count_pub":11,
-    "pageviews":681208
+    "pageviews":"1943-1989"
   },
   {
-    "name":"Евгений Ларин",
+    "name":"Lee Ranaldo",
     "count_pub":5,
-    "pageviews":670587
+    "pageviews":"1956"
   },
   {
-    "name":"Андрей Шевчук",
+    "name":"Thurston Moore",
     "count_pub":1,
-    "pageviews":661914
+    "pageviews":"1958"
   },
   {
-    "name":"Юрий Самойлов",
+    "name":"John Fahey",
     "count_pub":8,
-    "pageviews":651719
+    "pageviews":"1939-2001"
   }
 ]

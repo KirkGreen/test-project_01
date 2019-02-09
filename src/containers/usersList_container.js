@@ -90,7 +90,7 @@ class UsersListContainer extends Component {
 function mapStateToProps(state) {
     if(state.users.usersList){
         let result = [];
-        for(var i = 0; i < state.users.usersList.length; i++) {
+        for(let i = 0; i < state.users.usersList.length; i++) {
             let extendedUserObj = {};
             switch(i)
             {
